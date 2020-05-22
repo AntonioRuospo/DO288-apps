@@ -1,7 +1,4 @@
 
-i
-# Use the httpd-parent image as base
- Use the redhattraining/httpd-parent image as base
 FROM quay.io/redhattraining/httpd-parent
 
 # Change the port to 8080
